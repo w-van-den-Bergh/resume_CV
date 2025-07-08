@@ -6,6 +6,7 @@
 
 ## Education
 2022, Ph.D. in Chemistry. University of South Carolina. Thesis: Tailored Nanomaterials for Advancing Fast-Charge Research
+
 2017, B.S. in Chemistry, ACS Certified. Hope College.
 
 ## Experience
