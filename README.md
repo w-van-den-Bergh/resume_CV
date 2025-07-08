@@ -95,6 +95,9 @@
 ### Presentations
 
 ## Past Collaborations
+Work doesn't happen in a vacuum and no one is an island. Below is a list of organizations I have collaborated with on projects for the mutual benefit of our work.
+
+![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/master_img.png)
 
 ## Beyond the Work
 ### Mentorships
