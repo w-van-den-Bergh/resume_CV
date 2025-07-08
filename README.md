@@ -13,7 +13,13 @@
 
 ### Research Chemist (Chemiker) -- BELLA Labs @ KIT/BASF -- August 2022 to December 2023
 
+### Ph.D. Researcher -- Stefik Lab @ U of SC -- September 2017 to May 2022
 
+### Process Chemist -- Vertellus R&D -- Summer Term 2016
+
+### Researcher -- Guarr Lab @ MSU Bioeconomy Institute -- May 2015 - May 2016
+
+### Researcher -- Stukey Lab @ Hope College -- January 2014 - May 2015
 
 ## Skills -- In Alphabetical Order for each subsection
 ### Lab skills and Instrumentation
