@@ -9,16 +9,23 @@
 2017, B.S. in Chemistry, ACS Certified. Hope College.
 
 ## Experience
+![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/a123.jpeg)
 ### Research Scientist -- A123 Systems, Inc. -- January 2024 to June 2025
 
+![Alt text](https://raw.githubusercontent.com/w-van-den-Bergh/image-repository/refs/heads/main/org-logos/0_qfsz82ot6meKIT_logo_1000x1000.avif?token=GHSAT0AAAAAADG736ZEHGWHFRW7OJMPWQX22DNIV6A)
+![Alt text](https://raw.githubusercontent.com/w-van-den-Bergh/image-repository/refs/heads/main/org-logos/basf-light-blue%2016x9.avif?token=GHSAT0AAAAAADG736ZFDDRUSSFXO7DJALSW2DNITUA)
 ### Research Chemist (Chemiker) -- BELLA Labs @ KIT/BASF -- August 2022 to December 2023
 
+![Alt text](https://raw.githubusercontent.com/w-van-den-Bergh/image-repository/refs/heads/main/org-logos/usc.avif?token=GHSAT0AAAAAADG736ZE3WUUE6RFP5NDUDLW2DNIUXQ)
 ### Ph.D. Researcher -- Stefik Lab @ U of SC -- September 2017 to May 2022
 
+![Alt text](https://raw.githubusercontent.com/w-van-den-Bergh/image-repository/refs/heads/main/org-logos/Vertellus-Logo-2_Color-TM-TL.avif?token=GHSAT0AAAAAADG736ZFSBU4IHDE3GOOXWXY2DNISGQ)
 ### Process Chemist -- Vertellus R&D -- Summer Term 2016
 
+![Alt text](https://raw.githubusercontent.com/w-van-den-Bergh/image-repository/refs/heads/main/org-logos/msu_logo.avif?token=GHSAT0AAAAAADG736ZFOUSKVA2IRTBWVR722DNITEA)
 ### Researcher -- Guarr Lab @ MSU Bioeconomy Institute -- May 2015 - May 2016
 
+![Alt text](https://raw.githubusercontent.com/w-van-den-Bergh/image-repository/refs/heads/main/org-logos/hope.avif?token=GHSAT0AAAAAADG736ZE4XLCGN4ZNVKPJRNQ2DNIS5Q)
 ### Researcher -- Stukey Lab @ Hope College -- January 2014 - May 2015
 
 ## Skills -- In Alphabetical Order for each subsection
