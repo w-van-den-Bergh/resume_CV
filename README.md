@@ -234,6 +234,9 @@ U of SC --
 2017, Fall --
 
 ### Certifications
+[Google Project Management](https://www.coursera.org/account/accomplishments/specialization/CKCJ0SVYQJZN)
+
+[ASU Design of Experiment](https://www.coursera.org/account/accomplishments/specialization/VU494JF9RUA4)
 
 ### Volunteer Work
 **Canvasser (Door Knocking), Devine, T.** --
