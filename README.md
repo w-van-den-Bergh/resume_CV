@@ -177,7 +177,8 @@ Collaborations between departments and universities involving the design and exe
 **Project Management**<br/>
 [See Project Management Portfolio for details](https://github.com/w-van-den-Bergh/project-managaement-portfolio)<br/>
 • Managed collaborative research projects across organizations, writing paper publications
-• 
+• Managed RCCA analysis on battery cell failures
+• Managed external materials processing with partner companies
 
 **Scientific Communication**<br/>
 • Acolyte of Michael Alley's style of writing and presenting scientific works with award winning results. Excellent public speaking skills and conveying complex ideas to all levels of expertise
