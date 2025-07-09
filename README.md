@@ -23,33 +23,36 @@
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/a123.jpeg)
 ### Research Scientist -- A123 Systems, Inc. -- January 2024 to June 2025
-Development of NCM cathodes and full cells for solid-state Li-ion batteries which consistent of slurry mixing, coatings, processing, assembly, and performance testing for scales up to and included Ah systems
-Created automated analysis tools using Python for electrochemical analysis as well as quantifying microstructure of materials from Scanning Electron Microscopy (SEM) and Energy Dispersive Spectroscopy (EDS)
-Prepared and managed multiple projects which used Design of Experiment (DOE) and Root Cause Corrective Analysis (RCCA/RCA)
+• Development of NCM cathodes and full cells for solid-state Li-ion batteries which consistent of slurry mixing, coatings, processing, assembly, and performance testing for scales up to and included Ah systems<br/>
+• Created automated analysis tools using Python for electrochemical analysis as well as quantifying microstructure of materials from Scanning Electron Microscopy (SEM) and Energy Dispersive Spectroscopy (EDS)<br/>
+• Prepared and managed multiple projects which used Design of Experiment (DOE) and Root Cause Corrective Analysis (RCCA/RCA)
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/KIT_log.png)
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/BASF%20LOGO.png)
 ### Research Chemist (Chemiker) -- BELLA Labs @ KIT/BASF -- August 2022 to December 2023
-Lead scientist on synthesis of Nickel rich single-crystal NCMs under a joint project between BASF, U. of Darmstadt, and U. of Manchester.
-Used a combination of cell testing, automated SEM image analysis, and Rietveld refinement to characterize materials in conjunction with DOE to target specific material features with precision.
-Acted as in-lab manager of day-to-day operations, troubleshooting and delegating logistics.
+• Lead scientist on synthesis of Nickel rich single-crystal NCMs under a joint project between BASF, U. of Darmstadt, and U. of Manchester<br/>
+• Used a combination of cell testing, automated SEM image analysis, and Rietveld refinement to characterize materials in conjunction with DOE to target specific material features with precision<br/>
+• Acted as in-lab manager of day-to-day operations, troubleshooting and delegating logistics
 
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/USC_logo.png)
 ### Ph.D. Researcher -- Stefik Lab @ U of SC -- September 2017 to May 2022
-
+_Research on nanostructure behavior relationships in Li-ion materials with several publications, mentorships, teaching and outreach programs with awards, and club leadership positions
+Collaborations between departments and universities involving the design and execution of in-situ X-ray measurements and development of novel sol-gel chemistries as powders and thin-films._
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/REAL_Vertellus%20LOGO.jpg)
 ### Process Chemist -- Vertellus R&D -- Summer Term 2016
-
+• Fractional Factorial DOEs on synthetic menthol crystallization to meet client demands <br/>
+• Advanced fractional distillation for memory foam compounds<br/>
+• Long-term monitoring of decomposition reactions for proprietary reducing agents<br/>
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/Vertellus%20LOGO.png)
 ### Researcher -- Guarr Lab @ MSU Bioeconomy Institute -- May 2015 - May 2016
-
+• Organic synthesis of monomers for flow-cell membranes using nuclear magnetic resonance (NMR) and mass spectrometry
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/HOPE%20LOGO.png)
 ### Researcher -- Stukey Lab @ Hope College -- January 2014 - May 2015
-
+• Studied cytotoxicity of specific genes mycobacterophages introduced by insertion of plasmids to express said genes
 
 ## Skills -- In Alphabetical Order for each subsection
 ### Lab skills and Instrumentation
@@ -135,32 +138,32 @@ Acted as in-lab manager of day-to-day operations, troubleshooting and delegating
 
 ### Analysis
 **Data Analysis**<br/>
-See Data Analysis Portfolio for details<br/>
+[See Data Analysis Portfolio for details](https://github.com/w-van-den-Bergh/data-analysis-portfolio)<br/>
 • Meta analysis of Niobium doping and coating of cathode active materials and their effect on material performance -- published in peer reviewed journal<br/>
 
 **Design of Experiment**<br/>
-See Data Analysis Portfolio for details<br/>
+[See Data Analysis Portfolio for details](https://github.com/w-van-den-Bergh/data-analysis-portfolio)<br/>
 • Mixture DOE for LiNiO2 single-crystal synthesis -- published in peer reviewed journal<br/>
 • Fractional Factorial DOE for examining key processing factors for mechanical strength in solid-state cathode coatings<br/>
 • Screening factorials for key factors in nanomaterial templating and synthetic menthol crystallization<br/>
 
 **MATLAB**<br/>
-See Programming Portfolio for details<br/>
+[See Programming Portfolio for details](https://github.com/w-van-den-Bergh/programming-porfolio)<br/>
 • Scripts for: Kinetic analysis of cyclic voltammagrams of pseudocapacitive materials to relate rate capabilities to structural changes; EIS 3D Bode plots to extract time constants relating pseudocapacity; X-ray scatter and diffraction pattern data for in-situ charge-discharge data, nanostrcuture feature size analysis, and data plotting using color-blind/deficient friendly and scientific color palettes
 
 **Python**<br/>
-See Programming Portfolio for details
+[See Programming Portfolio for details](https://github.com/w-van-den-Bergh/programming-porfolio)<br/>
 • Scripts for: SEM image analysis and EDS element distributions for cross sectional samples; intermittent current interrupt (ICI) with 3D plots of related resistance and diffusivity as a function of voltage and cycle; routine analysis of rate and cycling data; routine plots of spectroscopy data using color-blind/deficient friendly and scientific color palettes
 
 **R programming**<br/>
-See Programming Portfolio for details
+[See Programming Portfolio for details](https://github.com/w-van-den-Bergh/programming-porfolio)<br/>
 • Scripts for: Analysis scripts for electrochemical data and for plotting spectroscopy and diffraction data using color-blind/deficient friendly and scientific color palettes
 
 **Root Cause Corrective Analysis**<br/>
 • RCCA of solid-state cell testing platforms to identify design issues which inhibited long-lasting cell performance using a suite of tests and process of elimination to connect mechanical phenomena to electrochemical behavior
 
 **SQL**<br/>
-See Programming Portfolio for details<br/>
+[See Programming Portfolio for details](https://github.com/w-van-den-Bergh/programming-porfolio)<br/>
 • A skill in development...
 
 ### Soft Skills
@@ -172,7 +175,7 @@ See Programming Portfolio for details<br/>
 • Mentored students from high-school to graduate level to work in the lab with self-sufficiency and confidence
 
 **Project Management**<br/>
-See Project Management Portfolio for details<br/>
+[See Project Management Portfolio for details](https://github.com/w-van-den-Bergh/project-managaement-portfolio)<br/>
 • Managed collaborative research projects across organizations, writing paper publications
 • 
 
