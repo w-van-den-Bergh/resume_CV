@@ -23,16 +23,16 @@
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/a123.jpeg)
 ### Research Scientist -- A123 Systems, Inc. -- January 2024 to June 2025
-• Development of NCM cathodes and full cells for solid-state Li-ion batteries which consistent of slurry mixing, coatings, processing, assembly, and performance testing for scales up to and included Ah systems<br/>
-• Created automated analysis tools using Python for electrochemical analysis as well as quantifying microstructure of materials from Scanning Electron Microscopy (SEM) and Energy Dispersive Spectroscopy (EDS)<br/>
-• Prepared and managed multiple projects which used Design of Experiment (DOE) and Root Cause Corrective Analysis (RCCA/RCA)
+* Development of NCM cathodes and full cells for solid-state Li-ion batteries which consistent of slurry mixing, coatings, processing, assembly, and performance testing for scales up to and included Ah systems<br/>
+* Created automated analysis tools using Python for electrochemical analysis as well as quantifying microstructure of materials from Scanning Electron Microscopy (SEM) and Energy Dispersive Spectroscopy (EDS)<br/>
+* Prepared and managed multiple projects which used Design of Experiment (DOE) and Root Cause Corrective Analysis (RCCA/RCA)
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/KIT_log.png)
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/BASF%20LOGO.png)
 ### Research Chemist (Chemiker) -- BELLA Labs @ KIT/BASF -- August 2022 to December 2023
-• Lead scientist on synthesis of Nickel rich single-crystal NCMs under a joint project between BASF, U. of Darmstadt, and U. of Manchester<br/>
-• Used a combination of cell testing, automated SEM image analysis, and Rietveld refinement to characterize materials in conjunction with DOE to target specific material features with precision<br/>
-• Acted as in-lab manager of day-to-day operations, troubleshooting and delegating logistics
+* Lead scientist on synthesis of Nickel rich single-crystal NCMs under a joint project between BASF, U. of Darmstadt, and U. of Manchester<br/>
+* Used a combination of cell testing, automated SEM image analysis, and Rietveld refinement to characterize materials in conjunction with DOE to target specific material features with precision<br/>
+* Acted as in-lab manager of day-to-day operations, troubleshooting and delegating logistics
 
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/USC_logo.png)
@@ -42,146 +42,146 @@ Collaborations between departments and universities involving the design and exe
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/REAL_Vertellus%20LOGO.jpg)
 ### Process Chemist -- Vertellus R&D -- Summer Term 2016
-• Fractional Factorial DOEs on synthetic menthol crystallization to meet client demands <br/>
-• Advanced fractional distillation for memory foam compounds<br/>
-• Long-term monitoring of decomposition reactions for proprietary reducing agents<br/>
+* Fractional Factorial DOEs on synthetic menthol crystallization to meet client demands <br/>
+* Advanced fractional distillation for memory foam compounds<br/>
+* Long-term monitoring of decomposition reactions for proprietary reducing agents<br/>
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/Vertellus%20LOGO.png)
 ### Researcher -- Guarr Lab @ MSU Bioeconomy Institute -- May 2015 - May 2016
-• Organic synthesis of monomers for flow-cell membranes using nuclear magnetic resonance (NMR) and mass spectrometry
+* Organic synthesis of monomers for flow-cell membranes using nuclear magnetic resonance (NMR) and mass spectrometry
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/HOPE%20LOGO.png)
 ### Researcher -- Stukey Lab @ Hope College -- January 2014 - May 2015
-• Studied cytotoxicity of specific genes mycobacterophages introduced by insertion of plasmids to express said genes
+* Studied cytotoxicity of specific genes mycobacterophages introduced by insertion of plasmids to express said genes
 
 ## Skills -- In Alphabetical Order for each subsection
 ### Lab skills and Instrumentation
 **Atom-Transfer Radical Polymerization**<br/>
-• Low dispersity polymers from initiators and macroinitiators to prepare block polymers
+* Low dispersity polymers from initiators and macroinitiators to prepare block polymers
 
 **Battery Testing** <br/>
-• Coin and pouch cells, half and full, Li/Na-ion as well as solid-state cells<br/>
-• Cycling, Rate, Impedance, Current Interrupt testing<br/>
-• Used MACCOR and Biologic Systems<br/>
+* Coin and pouch cells, half and full, Li/Na-ion as well as solid-state cells<br/>
+* Cycling, Rate, Impedance, Current Interrupt testing<br/>
+* Used MACCOR and Biologic Systems<br/>
 
 **Cell Design**<br/>
-• Paired with RCCA, proposed alternative cell designs and preparation methods for solid-state battery systems including Ah platforms
+* Paired with RCCA, proposed alternative cell designs and preparation methods for solid-state battery systems including Ah platforms
 
 **Dynamic Light Scattering / Particle Size Dispersion**<br/>
-• Tracking of micelle formation and sol-gel particle growth over time for troubleshooting of templating experiments
-• Tracking agglomeration of battery slurries during mixing
+* Tracking of micelle formation and sol-gel particle growth over time for troubleshooting of templating experiments
+* Tracking agglomeration of battery slurries during mixing
 
 **Electrochemical Testing**<br/>
-• in-situ electrochemical testing of cells during X-ray experiments<br/>
-• Advanced testing methods such as 3D Bode Analysis, Intermittent Current Interrupt<br/>
-• List of techniques done regularly: Cyclic Voltametry, Electrochemical Impedence Spectrometry, Galvanostatic/Potentiostatic Intermittent Titration Techniques, Rotating Disk Electrodes, Battery Cycling, Battery rate testing
+* in-situ electrochemical testing of cells during X-ray experiments<br/>
+* Advanced testing methods such as 3D Bode Analysis, Intermittent Current Interrupt<br/>
+* List of techniques done regularly: Cyclic Voltametry, Electrochemical Impedence Spectrometry, Galvanostatic/Potentiostatic Intermittent Titration Techniques, Rotating Disk Electrodes, Battery Cycling, Battery rate testing
 
 **Ellipsometry**<br/>
-• Used to determine film thickness of self-assembled metal oxide nanostructures
+* Used to determine film thickness of self-assembled metal oxide nanostructures
 
 **Gel Permeation Chromatography**<br/>
-• Routine measurements of block polymers for determination of their dispersity
+* Routine measurements of block polymers for determination of their dispersity
 
 **Hazardous Material Handling**<br/>
-• Trained in handling of hazardous caustics, pyrophorics, air sensitive compounds, and compressed gases including Hydrogen
-• Extensive glovebox work and maintainence of gloveboxes
+* Trained in handling of hazardous caustics, pyrophorics, air sensitive compounds, and compressed gases including Hydrogen
+* Extensive glovebox work and maintainence of gloveboxes
 
 **IR Spectroscopy**<br/>
-• Characterization of organic compounds
+* Characterization of organic compounds
 
 **Mass Spectroscopy**<br/>
-• Small molecule characterization for organic compounds and monomers<br/>
-• ICP-MS as a means to test mass loading of specific metal oxides in nanostructures includes recipe development<br/>
-• Graduate level class on generalized use of mass spectrometry
+* Small molecule characterization for organic compounds and monomers<br/>
+* ICP-MS as a means to test mass loading of specific metal oxides in nanostructures includes recipe development<br/>
+* Graduate level class on generalized use of mass spectrometry
 
 **Mehcanical Strength Testing**<br/>
-• Developed peel testing procedures for characterization of adhesion/cohesion strength of Li-ion cathodes
+* Developed peel testing procedures for characterization of adhesion/cohesion strength of Li-ion cathodes
 
 **Nanomaterials Synthesis**<br/>
-• Synthesized and prepared porous micro-/nanoparticles and porous thin film architectures using sol-gel chemistries and polymer templates
+* Synthesized and prepared porous micro-/nanoparticles and porous thin film architectures using sol-gel chemistries and polymer templates
 
 **Nuclear Magnetic Resonance**<br/>
-• Routine 1H measurements of polymerization reactions, polymers, and small molecules
+* Routine 1H measurements of polymerization reactions, polymers, and small molecules
 
 **Raman Spectroscopy**<br/>
-• Routine measurements of battery active material coatings and characterization of organic compounds
+* Routine measurements of battery active material coatings and characterization of organic compounds
 
 **Rheology**<br/>
-• Rheological tests to determine mixing quality and viscosity of cathode slurries
+* Rheological tests to determine mixing quality and viscosity of cathode slurries
 
 **Roll-to-roll coating**<br/>
-• Roll-to-roll coatings of solid-state cathode slurries on pilot scale line
+* Roll-to-roll coatings of solid-state cathode slurries on pilot scale line
 
 **Scanning Electron Microscopy**<br/>
-• Top-down and cross-sectional SEM for quantitative and automated image analysis of metal oxide and noble metal nanomaterials, NCM single-crystal microparticles, and cathode microstructures<br/>
-• EDS measurements with Python analysis scripts determining elemental distribution of species with cathode microstructures
+* Top-down and cross-sectional SEM for quantitative and automated image analysis of metal oxide and noble metal nanomaterials, NCM single-crystal microparticles, and cathode microstructures<br/>
+* EDS measurements with Python analysis scripts determining elemental distribution of species with cathode microstructures
 
 **Slurry Mixing and Coating**
-• Lab scale slurries to compare different mixing procedures and slurry compositions that were upscaled to pilot-scale coatings
+* Lab scale slurries to compare different mixing procedures and slurry compositions that were upscaled to pilot-scale coatings
 
 **Sol-Gel Chemistry**<br/>
-• Designed several sol-gel colloid preparation recipes for noble metal and metal oxide nanomaterials as powders and thin films from alkoxide and salt precursors
+* Designed several sol-gel colloid preparation recipes for noble metal and metal oxide nanomaterials as powders and thin films from alkoxide and salt precursors
 
 **Solid State Synthesis**<br/>
-• Solid-state calcination synthesis of cathode active materials for Li-ion batteries with both poly-crystalline and single-crystalline morphologies<br/>
-• Molten salt synthesis of LiNiO2 with a published work demonstrating a mixture DOE of salts and their molar ratios which can yield tunable particle size and defect content
+* Solid-state calcination synthesis of cathode active materials for Li-ion batteries with both poly-crystalline and single-crystalline morphologies<br/>
+* Molten salt synthesis of LiNiO2 with a published work demonstrating a mixture DOE of salts and their molar ratios which can yield tunable particle size and defect content
 
 **Thin-film coating**<br/>
-• Spin coating techniques for nanostructured thin films on Si, oxide, and glass substrates
+* Spin coating techniques for nanostructured thin films on Si, oxide, and glass substrates
 
 **X-Ray Diffraction**<br/>
-• In-house (Mo) XRD analysis of NCM structures to determine degree of Ni point defects and phases
+* In-house (Mo) XRD analysis of NCM structures to determine degree of Ni point defects and phases
 
 **X-Ray Scattering**<br/>
-• Routine transmission and grazing-grazing incidence measurements of nanomaterials for quantification of nanostructure and identification of phase<br/>
-• in-situ measurements of charge-discharge experiments of H+/Zn2+
+* Routine transmission and grazing-grazing incidence measurements of nanomaterials for quantification of nanostructure and identification of phase<br/>
+* in-situ measurements of charge-discharge experiments of H+/Zn2+
 
 ### Analysis
 **Data Analysis**<br/>
 [See Data Analysis Portfolio for details](https://github.com/w-van-den-Bergh/data-analysis-portfolio)<br/>
-• Meta analysis of Niobium doping and coating of cathode active materials and their effect on material performance -- published in peer reviewed journal<br/>
+* Meta analysis of Niobium doping and coating of cathode active materials and their effect on material performance -- published in peer reviewed journal<br/>
 
 **Design of Experiment**<br/>
 [See Data Analysis Portfolio for details](https://github.com/w-van-den-Bergh/data-analysis-portfolio)<br/>
-• Mixture DOE for LiNiO2 single-crystal synthesis -- published in peer reviewed journal<br/>
-• Fractional Factorial DOE for examining key processing factors for mechanical strength in solid-state cathode coatings<br/>
-• Screening factorials for key factors in nanomaterial templating and synthetic menthol crystallization<br/>
+* Mixture DOE for LiNiO2 single-crystal synthesis -- published in peer reviewed journal<br/>
+* Fractional Factorial DOE for examining key processing factors for mechanical strength in solid-state cathode coatings<br/>
+* Screening factorials for key factors in nanomaterial templating and synthetic menthol crystallization<br/>
 
 **MATLAB**<br/>
 [See Programming Portfolio for details](https://github.com/w-van-den-Bergh/programming-porfolio)<br/>
-• Scripts for: Kinetic analysis of cyclic voltammagrams of pseudocapacitive materials to relate rate capabilities to structural changes; EIS 3D Bode plots to extract time constants relating pseudocapacity; X-ray scatter and diffraction pattern data for in-situ charge-discharge data, nanostrcuture feature size analysis, and data plotting using color-blind/deficient friendly and scientific color palettes
+* Scripts for: Kinetic analysis of cyclic voltammagrams of pseudocapacitive materials to relate rate capabilities to structural changes; EIS 3D Bode plots to extract time constants relating pseudocapacity; X-ray scatter and diffraction pattern data for in-situ charge-discharge data, nanostrcuture feature size analysis, and data plotting using color-blind/deficient friendly and scientific color palettes
 
 **Python**<br/>
 [See Programming Portfolio for details](https://github.com/w-van-den-Bergh/programming-porfolio)<br/>
-• Scripts for: SEM image analysis and EDS element distributions for cross sectional samples; intermittent current interrupt (ICI) with 3D plots of related resistance and diffusivity as a function of voltage and cycle; routine analysis of rate and cycling data; routine plots of spectroscopy data using color-blind/deficient friendly and scientific color palettes
+* Scripts for: SEM image analysis and EDS element distributions for cross sectional samples; intermittent current interrupt (ICI) with 3D plots of related resistance and diffusivity as a function of voltage and cycle; routine analysis of rate and cycling data; routine plots of spectroscopy data using color-blind/deficient friendly and scientific color palettes
 
 **R programming**<br/>
 [See Programming Portfolio for details](https://github.com/w-van-den-Bergh/programming-porfolio)<br/>
-• Scripts for: Analysis scripts for electrochemical data and for plotting spectroscopy and diffraction data using color-blind/deficient friendly and scientific color palettes
+* Scripts for: Analysis scripts for electrochemical data and for plotting spectroscopy and diffraction data using color-blind/deficient friendly and scientific color palettes
 
 **Root Cause Corrective Analysis**<br/>
-• RCCA of solid-state cell testing platforms to identify design issues which inhibited long-lasting cell performance using a suite of tests and process of elimination to connect mechanical phenomena to electrochemical behavior
+* RCCA of solid-state cell testing platforms to identify design issues which inhibited long-lasting cell performance using a suite of tests and process of elimination to connect mechanical phenomena to electrochemical behavior
 
 **SQL**<br/>
 [See Programming Portfolio for details](https://github.com/w-van-den-Bergh/programming-porfolio)<br/>
-• A skill in development...
+* A skill in development...
 
 ### Soft Skills
 **Lab and Lab Safety Management**<br/>
-• Ensuring that two labs met either US or German lab safety standards. As well as coordinating use and scheduling of instrumentation to guarantee that everyone has access to progress their work
+* Ensuring that two labs met either US or German lab safety standards. As well as coordinating use and scheduling of instrumentation to guarantee that everyone has access to progress their work
 
 **Leadership**<br/>
-• Lead scientist on research projects, managing experiments, data analysis, and preparation of results for presentation<br/>
-• Mentored students from high-school to graduate level to work in the lab with self-sufficiency and confidence
+* Lead scientist on research projects, managing experiments, data analysis, and preparation of results for presentation<br/>
+* Mentored students from high-school to graduate level to work in the lab with self-sufficiency and confidence
 
 **Project Management**<br/>
 [See Project Management Portfolio for details](https://github.com/w-van-den-Bergh/project-managaement-portfolio)<br/>
-• Managed collaborative research projects across organizations, writing paper publications
-• Managed RCCA analysis on battery cell failures
-• Managed external materials processing with partner companies
+* Managed collaborative research projects across organizations, writing paper publications
+* Managed RCCA analysis on battery cell failures
+* Managed external materials processing with partner companies
 
 **Scientific Communication**<br/>
-• Acolyte of Michael Alley's style of writing and presenting scientific works with award winning results. Excellent public speaking skills and conveying complex ideas to all levels of expertise
+* Acolyte of Michael Alley's style of writing and presenting scientific works with award winning results. Excellent public speaking skills and conveying complex ideas to all levels of expertise
 
 ## Publications, Patents, and Presentations
 ### Publications
@@ -199,7 +199,7 @@ Collaborations between departments and universities involving the design and exe
 6. **v. d. Bergh, W.;** Williams, E. R.; Vest, N. A.; Chiang, P.-H.; Stefik, M. Mesoporous TiO2 Microparticles with Tailored Surface, Pore, Wall, and Particle Dimensions using Persistent Micelle Templates. Langmuir, 2021, 37(44), 12874-12886. (Journal Cover) [Link](https://pubs.acs.org/doi/10.1021/acs.langmuir.1c01865)<br/>
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/journal-covers/adfm.202170005-1-229x300.jpg)
 7. **v. d. Bergh, W.**; Lokupitiya, H.; Vest, N. A.; Reid, B.; Guldin, S.; Stefik, M. Tunable Isomorphic Architectures of T-Nb2O5 Quantify Nanostructure Dependence of Intercalation Pseudocapacitance upon Diffusive Processes. Advanced Functional Materials, 2021, 31, 2007826, 1-11. (Frontsipiece)[Link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202007826)<br/>
-8. Karger, L.;  Korneychuk, S.;  **v. d. Bergh, W.**; Dreyer, S. L.; Zhang, R.; Goonetilleke, D.; Kondrakov, A.; Janek, J.; Brezesinski, T. See-Saw Effect of NiLi• Defects on Electrochemical Performance Studied in Size Tailored LiNiO2. Chemistry of Materials, 2024, 36, 3, 1497-1512.[Link](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c02727)<br/>
+8. Karger, L.;  Korneychuk, S.;  **v. d. Bergh, W.**; Dreyer, S. L.; Zhang, R.; Goonetilleke, D.; Kondrakov, A.; Janek, J.; Brezesinski, T. See-Saw Effect of NiLi* Defects on Electrochemical Performance Studied in Size Tailored LiNiO2. Chemistry of Materials, 2024, 36, 3, 1497-1512.[Link](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c02727)<br/>
 9. Nunes, B. N.; **v. d. Bergh, W.**; Strauss, F.; Kondrakov, A.; Brezesinski, T.; Janek, J.; The role of niobium in layered oxide cathodes for conventional lithium-ion and solid-state batteries. Inorganic Chemistry Frontiers, 2023, 10, 7126-7145.[Link](https://pubs.rsc.org/en/content/articlelanding/2023/qi/d3qi01857a)<br/>
 10. Zhao, W.; Wang, K.; Fan, X.; Ren, F.; Xu, X.; Liu, Y.; Xiong, S.; Liu, X.; Zhang, Z.; Si, M.; Zhang, R.; **v. d. Bergh, W.**; Yan, P.; Battaglia, C.; Brezesinski, T.; Yang, Y. Quantifying Degradation Parameters of Single-Crystalline Ni-Rich Cathodes in Lithium-Ion Batteries. Angewandte Chemie International Edition, 2023, e202305281.[Link](https://onlinelibrary.wiley.com/doi/10.1002/anie.202305281)<br/>
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/journal-covers/Stefik-2022-Soft-Matter-229x300.jpg)
