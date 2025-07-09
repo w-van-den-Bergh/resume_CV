@@ -1,6 +1,6 @@
 # Wessel van den Bergh, Ph.D.
 
-**Summary:** Materials scientist by training with a specialty in analysis and testing of design-performance relationships, in the lab since 2015. Industry and academic experience from basic research to upscaling and manufacturing. Central thesis to my work is making the world more sustainable place. Beyond scientific training, I have skills in data analysis, programming languages (Python, MATLAB, R, SQL), and Project Management
+**Summary:** Materials scientist by training with a specialty in analysis and testing of design-performance relationships, in the lab since 2015. Industry and academic experience from basic research to upscaling and manufacturing. Central thesis to my work is making the world more sustainable place. Beyond scientific training, I have skills in data analysis, programming languages (Python, MATLAB, R, SQL), and Project Management.
 
 **Below is a masterlist of my professional capabilities, in addition there are links to projects and portfolios showcasing my skills**
 
@@ -9,25 +9,46 @@
 
 2017, B.S. in Chemistry, ACS Certified. Hope College.
 
+## Portfolios
+
+**[Data Analysis Portfolio](https://github.com/w-van-den-Bergh/data-analysis-portfolio)**
+
+**[Programming Portfolio](https://github.com/w-van-den-Bergh/programming-porfolio)**
+
+**[Project Management Portfolio](https://github.com/w-van-den-Bergh/project-managaement-portfolio)**
+
+
+
 ## Experience
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/a123.jpeg)
 ### Research Scientist -- A123 Systems, Inc. -- January 2024 to June 2025
+Development of NCM cathodes and full cells for solid-state Li-ion batteries which consistent of slurry mixing, coatings, processing, assembly, and performance testing for scales up to and included Ah systems
+Created automated analysis tools using Python for electrochemical analysis as well as quantifying microstructure of materials from Scanning Electron Microscopy (SEM) and Energy Dispersive Spectroscopy (EDS)
+Prepared and managed multiple projects which used Design of Experiment (DOE) and Root Cause Corrective Analysis (RCCA/RCA)
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/KIT_log.png)
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/BASF%20LOGO.png)
 ### Research Chemist (Chemiker) -- BELLA Labs @ KIT/BASF -- August 2022 to December 2023
+Lead scientist on synthesis of Nickel rich single-crystal NCMs under a joint project between BASF, U. of Darmstadt, and U. of Manchester.
+Used a combination of cell testing, automated SEM image analysis, and Rietveld refinement to characterize materials in conjunction with DOE to target specific material features with precision.
+Acted as in-lab manager of day-to-day operations, troubleshooting and delegating logistics.
+
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/USC_logo.png)
 ### Ph.D. Researcher -- Stefik Lab @ U of SC -- September 2017 to May 2022
 
+
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/REAL_Vertellus%20LOGO.jpg)
 ### Process Chemist -- Vertellus R&D -- Summer Term 2016
+
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/Vertellus%20LOGO.png)
 ### Researcher -- Guarr Lab @ MSU Bioeconomy Institute -- May 2015 - May 2016
 
+
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/HOPE%20LOGO.png)
 ### Researcher -- Stukey Lab @ Hope College -- January 2014 - May 2015
+
 
 ## Skills -- In Alphabetical Order for each subsection
 ### Lab skills and Instrumentation
