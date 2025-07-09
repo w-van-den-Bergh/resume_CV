@@ -185,10 +185,42 @@ Collaborations between departments and universities involving the design and exe
 
 ## Publications, Patents, and Presentations
 ### Publications
+[ORCID](https://orcid.org/0000-0002-3078-7161)
+
+1. **v. d. Bergh, W.**; Yao, R.; Zhang, R.; Janek, J.; Kondrakov, A.; Brezesinski, T.; Effect of salt selection and molar ratio in molten salt synthesis of single-crystalline LiNiO2. Journal of Materials Chemistry A. 2024, 12, 8683-8688.<br/>
+2. **v. d. Bergh, W.;** Karger, L.; Murugan, S.; Janek, J.; Kondrakov, A.; Brezesinski, T.; Single Crystal Layered Oxide Cathodes: The Relationship between Particle Size, Rate Capability, and Stability. ChemElectroChem, 2023, e202300165 . (Journal Cover)<br/>
+3. **v. d. Bergh, W.**; Stefik, M., Understanding Rapid Intercalation Materials One Parameter at a Time, Advanced Functional Materials, 2022, 32, 2204126, 1-19. (Invited)<br/>
+4. **v. d. Bergh, W.**; Wechsler, S.; Lokupitiya, H. N.; Jarocha, L.; Kim, K.; Chapman, J.; Kweon, K. E.; Wood, B. C.; Heald, S.; Stefik, M. Amorphization of T-Nb2O5 Accelerates Intercalation Pseudocapacitance via Faster Lithium Diffusivity Revealed using Tunable Isomorphic Architectures. Batteries & Supercaps, 2022, 5(7), e202200122, 1-13. (Journal Cover, Editor’s Choice Spotlights)<br/>
+5. **v. d. Bergh, W.**; Larison, T.; Fornerod, M. J.; Guldin, S.; Stefik, M. Faster Intercalation Pseudocapacitance Enabled by Adjustable Amorphous Titania where Tunable Isomorphic Architectures Reveal Accelerated Lithium Diffusivity. Batteries & Supercaps, 2022, 5(6), e202200056. (Journal Cover)<br/>
+6. **v. d. Bergh, W.;** Williams, E. R.; Vest, N. A.; Chiang, P.-H.; Stefik, M. Mesoporous TiO2 Microparticles with Tailored Surface, Pore, Wall, and Particle Dimensions using Persistent Micelle Templates. Langmuir, 2021, 37(44), 12874-12886. (Journal Cover)<br/>
+7. **v. d. Bergh, W.**; Lokupitiya, H.; Vest, N. A.; Reid, B.; Guldin, S.; Stefik, M. Tunable Isomorphic Architectures of T-Nb2O5 Quantify Nanostructure Dependence of Intercalation Pseudocapacitance upon Diffusive Processes. Advanced Functional Materials, 2021, 31, 2007826, 1-11. (Frontsipiece)<br/>
+8. Karger, L.;  Korneychuk, S.;  **v. d. Bergh, W.**; Dreyer, S. L.; Zhang, R.; Goonetilleke, D.; Kondrakov, A.; Janek, J.; Brezesinski, T. See-Saw Effect of NiLi• Defects on Electrochemical Performance Studied in Size Tailored LiNiO2. Chemistry of Materials, 2024, 36, 3, 1497-1512.<br/>
+9. Nunes, B. N.; **v. d. Bergh, W.**; Strauss, F.; Kondrakov, A.; Brezesinski, T.; Janek, J.; The role of niobium in layered oxide cathodes for conventional lithium-ion and solid-state batteries. Inorganic Chemistry Frontiers, 2023, 10, 7126-7145.<br/>
+10. Zhao, W.; Wang, K.; Fan, X.; Ren, F.; Xu, X.; Liu, Y.; Xiong, S.; Liu, X.; Zhang, Z.; Si, M.; Zhang, R.; **v. d. Bergh, W.**; Yan, P.; Battaglia, C.; Brezesinski, T.; Yang, Y. Quantifying Degradation Parameters of Single-Crystalline Ni-Rich Cathodes in Lithium-Ion Batteries. Angewandte Chemie International Edition, 2023, e202305281.<br/>
+11. Williams, E. R.; **v. d. Bergh, W.**; Stefik, M. High-χ, low-N Micelles from Partially Pefluorinated Block Polymers. Soft Matter, 2022, 18, 7917-7930.<br/>
+12. Zhu, K.; Wu, T.; **v. d. Bergh, W.**; Stefik, M.; Huang, K. Reversible Molecular and Ionic Storage Mechanisms in High-Performance Zn0.1V2O5•nH2O Xerogel Cathode for Aqueous Zn-ion Batteries. ACS Nano, 2021, 15, 6, 10678-10688.<br/>
+13. Lu, Y.; Zhu, T.; **v. d. Bergh, W.**; Stefik, M.; Huang, K. A High Performing Zn-ion Battery Cathode Enabled by in-situ Transformation of V2O5 Atomic Layers. Angewandte Chemie International Edition 2020, 132, 17152-17159.<br/>
+14. Zhu, K.; Wu, T.; Sun, S.; **v. d. Bergh, W.**; Stefik, M.; Huang, K. Synergistic H+/Zn2+ dual ion insertion mechanism in high-capacity and ultra-stable hydrated VO2 cathode for aqueous Zn-ion batteries. Energy Storage Materials 2020, 29, 60-70.<br/>
+15. Lantz, K. A.; Clamp, N. B.; **v. d. Bergh, W.**; Sarkar, A; Stefik, M. Full Gamut Wall Tunability from Persistent Micelle Templates via Ex Situ Hydrolysis. Small 2019, 15, 1900393. (Journal Cover)<br/>
 
 ### Patents
+1. **v. d. Bergh, W.**; Karger, L.; Brezesinski, T.; Kondrakov A,; Process for making a cathode active material, and cathode active material. (Patent, BASF) 2025. [Link](https://patentimages.storage.googleapis.com/37/b2/a1/1fd1e4e46306d2/WO2025061478A1.pdf)<br/>
+2. Karger, L.; An, S.; **v. d. Bergh, W.**; Kondrakov, A.; Brezesinski, T.; Cathode active material and its use in rechargeable electrochemical cells. (Patent, BASF) 2024. [Link](https://patentimages.storage.googleapis.com/6b/c1/2a/298ad919043976/WO2024240593A1.pdf)<br/>
 
 ### Presentations
+1. 2023, May — BASF “New recipes for SC NCMs”
+2. 2023, February — Texas A&M “Life as a Postdoc”
+3. 2022, March — U of SC Senior Graduate Student Award  “Tailored nanomaterials for advancing fast-charge batteries”
+4. 2022, February— U of SC Graduate Poster Session “Precision nanomaterials reduce ambiguity in ultra-fast energy storage systems”
+5. 2021, July – NGRPC2021 (Virtual) “Persistent Micelle Templates for Tunable Isomorphic Architectures to Probe Nanostructure Dependence of Pseudocapacitive T-Nb2O5”
+6. 2021, April - ACS Spring National Conference (Virtual) “Tunable Isomorphic Architectures Reveal the Nanostructure Dependence of Nb2O5 Intercalation Pseudocapacitance”
+7. 2019, August – International School for Materials for Energy and Sustainability (Pasadena, CA) “Systematic Series of Porous Nanomaterials Revealing Unexpected Confinement Trends for Electrochemical Lithiation”
+8. 2016, April – Hope College Research Symposium (Holland, MI)
+9. 2015, July – Hope College Summer Research Fair (Holland, MI)
+10. 2015, May – American Society for Microbiology Conference (New Orleans, LA)
+11. 2015, April – Hope College Research Symposium (Holland, MI)
+12. 2014, July – Midwest Microbiology Conference (Chicago, IL)
+13. 2014, April – Hope College Research Symposium (Holland, MI)
 
 ## Past Collaborations
 Work doesn't happen in a vacuum and no one is an island. Below is a list of organizations I have collaborated with on projects for the mutual benefit of our work.
