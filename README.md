@@ -20,6 +20,7 @@
 
 
 ## Experience
+
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/a123.jpeg)
 ### Research Scientist -- A123 Systems, Inc. -- January 2024 to June 2025
 Development of NCM cathodes and full cells for solid-state Li-ion batteries which consistent of slurry mixing, coatings, processing, assembly, and performance testing for scales up to and included Ah systems
