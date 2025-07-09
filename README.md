@@ -11,6 +11,8 @@
 
 ## Portfolios
 
+**Please note that the portfolio sections are work-in-progess**
+
 **[Data Analysis Portfolio](https://github.com/w-van-den-Bergh/data-analysis-portfolio)**
 
 **[Programming Portfolio](https://github.com/w-van-den-Bergh/programming-porfolio)**
