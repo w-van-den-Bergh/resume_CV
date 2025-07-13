@@ -1,6 +1,6 @@
 # Wessel van den Bergh, Ph.D.
 
-**Summary:** Materials scientist by training with a specialty in analysis and testing of design-performance relationships, in the lab since 2015. Industry and academic experience from basic research to upscaling and manufacturing. Central thesis to my work is making the world more sustainable place. Beyond scientific training, I have skills in data analysis, programming languages (Python, MATLAB, R, SQL), and Project Management.
+**Summary:** Materials scientist by training with a specialty in analysis and testing of design-performance relationships, in the lab since 2015. Industry and academic experience from basic research to upscaling and manufacturing. Central thesis to my work is making the world a more sustainable place. Beyond scientific training, I have skills in data analysis, programming languages (Python, MATLAB, R, SQL), and Project Management.
 
 **Below is a masterlist of my professional capabilities, in addition there are links to projects and portfolios showcasing my skills**
 
