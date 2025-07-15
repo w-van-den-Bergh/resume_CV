@@ -39,8 +39,8 @@
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/USC_logo.png)
 ### Ph.D. Researcher -- Stefik Lab @ U of SC -- September 2017 to May 2022
-_Research on nanostructure behavior relationships in Li-ion materials with several publications, mentorships, teaching and outreach programs with awards, and club leadership positions
-Collaborations between departments and universities involving the design and execution of in-situ X-ray measurements and development of novel sol-gel chemistries as powders and thin-films._
+* Research on nanostructure behavior relationships in Li-ion materials with several publications, mentorships, teaching and outreach programs with awards, and club leadership positions<br/>
+* Collaborations between departments and universities involving the design and execution of in-situ X-ray measurements and development of novel sol-gel chemistries as powders and thin-films.
 
 ![Alt text](https://github.com/w-van-den-Bergh/image-repository/blob/main/org-logos/REAL_Vertellus%20LOGO.jpg)
 ### Process Chemist -- Vertellus R&D -- Summer Term 2016
