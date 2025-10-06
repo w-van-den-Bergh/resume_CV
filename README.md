@@ -1,4 +1,4 @@
-# Wessel van den Bergh, Ph.D.
+# Wessel van den Bergh, Ph.D., P.M.P.
 
 **Summary:** Materials scientist by training with a specialty in analysis and testing of design-performance relationships, in the lab since 2015. Industry and academic experience from basic research to upscaling and manufacturing. Central thesis to my work is making the world a more sustainable place. Beyond scientific training, I have skills in data analysis, programming languages (Python, MATLAB, R, SQL), and Project Management.
 
@@ -18,6 +18,8 @@
 **[Programming Portfolio](https://github.com/w-van-den-Bergh/programming-porfolio)**
 
 **[Project Management Portfolio](https://github.com/w-van-den-Bergh/project-managaement-portfolio)**
+
+**[CAD Portfolio](https://github.com/w-van-den-Bergh/cad-portfolio)**
 
 
 
@@ -178,6 +180,9 @@
 
 **Project Management**<br/>
 [See Project Management Portfolio for details](https://github.com/w-van-den-Bergh/project-managaement-portfolio)<br/>
+
+Certified PMP by PMI (Credential ID = 4187347)
+
 * Managed collaborative research projects across organizations, writing paper publications
 * Managed RCCA analysis on battery cell failures
 * Managed external materials processing with partner companies
