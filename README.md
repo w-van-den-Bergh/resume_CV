@@ -280,7 +280,9 @@ U of SC --
 2017, Fall --
 
 ### Certifications
-[Google Project Management](https://www.coursera.org/account/accomplishments/specialization/CKCJ0SVYQJZN)
+Project Management Professional (PMP)
+
+[SOLIDWORKS 3D CAD for Education](https://coursera.org/share/4cfdbb02a47281d42ada1d467a4161e4)
 
 [ASU Design of Experiment](https://www.coursera.org/account/accomplishments/specialization/VU494JF9RUA4)
 
